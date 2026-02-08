@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ミニモニ。ジャンケンぴょん！",
+  "base_artist": "ミニモニ。",
+  "createdAt": "2026-02-08T06:10:38.213888Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミニモニ。ジャンケンぴょん!",
+      "artist": "ミニモニ。",
+      "has_synced": false,
+      "path": "select/pl_01_ミニモニ。ジャンケンぴょん!_ミニモニ。.txt"
+    }
+  ]
+}
